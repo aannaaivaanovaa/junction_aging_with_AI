@@ -1,0 +1,19 @@
+{
+  "name": "Margaret Smith",
+  "age": 78,
+  "medications": [
+    "Lisinopril 10mg - for blood pressure",
+    "Metformin 500mg - for diabetes",
+    "Vitamin D supplement"
+  ],
+  "health_conditions": [
+    "Hypertension",
+    "Type 2 Diabetes",
+    "Mild arthritis"
+  ],
+  "emergency_contact_name": "Sarah Johnson (daughter)",
+  "emergency_contact_phone": "+1-555-0123",
+  "preferred_call_time": "10:00 AM",
+  "language_preference": "English",
+  "special_notes": "Prefers calls in the morning. Hard of hearing in left ear, speak clearly."
+}
