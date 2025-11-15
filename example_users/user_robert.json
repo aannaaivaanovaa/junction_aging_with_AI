@@ -1,0 +1,17 @@
+{
+  "name": "Robert Chen",
+  "age": 82,
+  "medications": [
+    "Aspirin 81mg - blood thinner",
+    "Atorvastatin 20mg - cholesterol"
+  ],
+  "health_conditions": [
+    "Heart disease",
+    "High cholesterol"
+  ],
+  "emergency_contact_name": "Michael Chen (son)",
+  "emergency_contact_phone": "+1-555-0456",
+  "preferred_call_time": "2:00 PM",
+  "language_preference": "English",
+  "special_notes": "Lives alone. Recently widowed. May benefit from social engagement calls."
+}
